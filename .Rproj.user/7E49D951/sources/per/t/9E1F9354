@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561851009740.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4103803301",
+    "id" : "9E1F9354",
+    "lastKnownWriteTime" : 1564350973,
+    "last_content_update" : 1564350973908,
+    "path" : "C:/Users/Rich Hanna/Desktop/Top_Movies/Top_Movies/top_movies.R",
+    "project_path" : "top_movies.R",
+    "properties" : {
+        "cursorPosition" : "35,9",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "15"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

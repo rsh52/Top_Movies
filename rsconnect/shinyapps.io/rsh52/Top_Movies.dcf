@@ -1,0 +1,13 @@
+name: Top_Movies
+title: Top_Movies
+username:
+account: rsh52
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1004827
+bundleId: 2272109
+url: https://rsh52.shinyapps.io/Top_Movies/
+when: 1564352052.82307
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: top_movies.html
